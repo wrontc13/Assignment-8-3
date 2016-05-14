@@ -1,0 +1,2 @@
+To make directory use this:
+rails new app_name
